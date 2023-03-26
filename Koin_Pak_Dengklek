@@ -9,4 +9,4 @@ else:
             posisi = i+1
             break
 print(posisi)
-COMPLEXITY = O(n)
+#COMPLEXITY = O(n)
