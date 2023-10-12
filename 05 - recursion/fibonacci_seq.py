@@ -13,4 +13,4 @@ for i in range(n):
     print(fibo(i),end=" ")
 print()
 
-#complexity = O(n)
+#complexity = O(2 ^ n)
