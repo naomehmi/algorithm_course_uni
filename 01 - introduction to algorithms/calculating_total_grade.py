@@ -13,3 +13,5 @@ z = int(input("Final exam grade : "))
 finalGrade = 0.4 * x + 0.3 * y + 0.3 * z
 
 print("\nFinal grade = %.2f"%finalGrade)
+
+#complexity = O(1)
