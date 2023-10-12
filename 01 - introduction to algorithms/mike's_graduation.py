@@ -10,3 +10,5 @@ if mike == 7 or mike == 8:
     print("Mike will graduate on time.")
 else:
     print("Mike will not graduate on time")
+
+#complexity = O(1)
