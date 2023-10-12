@@ -26,4 +26,5 @@ for i in range(len(coins)):
             ans = i + 1
 print(ans)
 
+# kinda hesitant whether this code implements brute force or not, it uses a linear search algorithm tho
 # complexity = O(n)
