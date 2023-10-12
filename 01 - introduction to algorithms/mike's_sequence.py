@@ -12,3 +12,5 @@ for i in range(n):
 
 # e.g. n = 7, s = 2, d = 5
 # output -> 2 7 12 17 22 27 32
+
+#complexity = O(n)
