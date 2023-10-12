@@ -10,4 +10,4 @@ n = int(input("Input a decimal number : "))
 
 convert(n)
 
-#complexity = O(n)
+#complexity = O(log n)
