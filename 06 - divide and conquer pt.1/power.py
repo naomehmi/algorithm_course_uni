@@ -13,4 +13,4 @@ def power(n,m):
 n, m = list(map(int,input().split()))
 print(power(n,m))
 
-#complexity = O(log n)
+#complexity = O(log m)
