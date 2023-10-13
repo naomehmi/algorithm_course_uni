@@ -31,4 +31,4 @@ n = int(input())
 
 comb([],0)
 
-# complexity = O(n)
+# complexity = O(2 ^ n)
