@@ -40,4 +40,4 @@ for i in arr:
     print(i,end=" ")
 print()
 
-#complexity : O(log n)
+#complexity : O(n log n)
