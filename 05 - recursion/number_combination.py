@@ -1,5 +1,5 @@
 """
-given an array of numbers, how many combinations can be made that adds up to N
+given an array of numbers, how many combinations can be made that add up to N
 
 e.g. arr = 2 3 5 7, n = 7
 output:
