@@ -1,5 +1,5 @@
 """
-sort a string alphabetically (excluding whitespaces)
+sort a string lexicographically (starting from uppercase letters and ignore whitespaces from input)
 
 e.g. Hello World
 output = H W d e l l l o o r 
