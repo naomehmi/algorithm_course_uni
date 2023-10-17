@@ -1,6 +1,6 @@
 # algorithm_course_uni
 
-This repository contains my code for my algorithms course in uni.
+This repository contains my code for my 2nd semester algorithms course in uni.
 
 ## brief description
 
