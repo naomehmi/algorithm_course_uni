@@ -4,7 +4,7 @@ This repository contains my code for my algorithms course in uni.
 
 ## brief description
 
-- each folder represents the topics for this course, and contains my solutions for the exercises during the meeting.
+- each folder represents every topic for this course, and contains my solutions for the exercises during the meeting.
 - the formats of each code is straighforward. The objective of the task is commented at the top of the code, meanwhile the time complexity is commented at the bottom
 - i might add a step-by-step explanation to every code later when i have time  
 
