@@ -1,5 +1,5 @@
 """
-a simple program program to calculate M power of N (N ^ M) using divide and conquer algo
+a simple program to calculate N to the power of M (N ^ M) using divide and conquer algo
 
 explanation: https://youtu.be/7HtsNw8NWSo?si=MIqXUi5ELlwQhRsf
 """
