@@ -48,7 +48,7 @@ This repository contains my code for my 2nd semester algorithms course in uni.
 
 - merge sort
 - tower of hanoi
-- quick sort (not added yet)
+- quick sort
 
 ### 08 - dynamic programming pt. 1
 
