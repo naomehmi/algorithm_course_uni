@@ -6,7 +6,7 @@ This repository contains my code for my 2nd semester algorithms course in uni.
 
 - each folder represents every topic for this course, and contains my solutions for the exercises during the meeting.
 - the formats of each code is straighforward. The objective of the task is commented at the top of the code, meanwhile the time complexity is commented at the bottom
-- I might add a step-by-step explanation to every code later after I have finished all the topics
+- I might add a step-by-step explanation to every code later once I have finished all the topics
 
 ## table of contents
 
