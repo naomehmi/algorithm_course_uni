@@ -1,6 +1,6 @@
 # algorithm_course_uni
 
-This repository contains my code for my 2nd semester algorithms course in uni. I decided to try doing every exercise from scratch again to practice and challenge my understanding of algorithms.
+This repository contains my code for my 2nd semester algorithms course in uni. I decided to do all the exercises from scratch again to practice and challenge my understanding of algorithms.
 
 ## brief description
 
