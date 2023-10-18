@@ -12,7 +12,7 @@ This repository contains my code for my 2nd semester algorithms course in uni. I
 
 ### 01 - introduction to algorithms
 
-- basics of python
+- python basics
 - print, input
 - mathematical and logical operators
 - if-else statements
