@@ -53,7 +53,7 @@ This repository contains my code for my 2nd semester algorithms course in uni. I
 ### 08 - dynamic programming pt. 1
 
 - fibonacci sequence using memoization
-- matrix multiplication (not addded yet)
+- minimum coin change (not addded yet)
 - longest palindrome using memoization (not added yet)
 
 ### 09 - dynamic programming pt. 2
