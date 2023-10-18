@@ -6,7 +6,7 @@ This repository contains my code for my 2nd semester algorithms course in uni.
 
 - each folder represents every topic for this course, and contains my solutions for the exercises during the meeting.
 - the formats of each code is straighforward. The objective of the task is commented at the top of the code, meanwhile the time complexity is commented at the bottom
-- i might add a step-by-step explanation to every code later when i have time  
+- I might add a step-by-step explanation to every code later after I have finished all the topics
 
 ## table of contents
 
@@ -52,7 +52,9 @@ This repository contains my code for my 2nd semester algorithms course in uni.
 
 ### 08 - dynamic programming pt. 1
 
-- not added yet
+- fibonacci sequence using memoization
+- matrix multiplication (not addded yet)
+- palindrome using memoization (not added yet)
 
 ### 09 - dynamic programming pt. 2
 
