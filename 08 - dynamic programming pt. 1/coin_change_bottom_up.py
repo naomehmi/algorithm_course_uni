@@ -20,3 +20,5 @@ for i in range(n+1):
         dp[i] = min(dp[i], 1 + dp[i - j])
 
 print(dp[n])
+
+# time complexity = O(len(arr) * n)
