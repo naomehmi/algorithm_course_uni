@@ -9,11 +9,11 @@ output:
 3
 3
 1
-1
-1
-1
-1
-1
+6
+3
+9
+8
+5
 
 explanation : in the array, there are 1 number zero, 2 number ones, 3 number twos, 3 number threes, and so on.
 
